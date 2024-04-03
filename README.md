@@ -1,16 +1,42 @@
-### Hi there 👋
+## Welcome to my GitHub page! I am Natalya Al-Ansi 👋
+Full Stack QA Engineer | ISTQB® Certified Tester | 4+ years perfecting web and mobile applications for telecom, fintech and biotech companies
+
+## About Me
+Full Stack QA Engineer with over 4 years of hands-on experience in testing web and mobile applications. Experienced in leading a team of 7 testers for approximately a year. Developed skills in test automation using Java (Selenide with JUnit) and performance testing using JMeter.
+
+**Technical Skills**
+**Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
+**Load Testing:** JMeter
+**Web Services Testing:** REST API via Postman, SOAP via SoapUI
+**Web Testing Tools:** DevTools, Bug Magnet, Lorem Ipsum, Mockaroo
+**Databases:** MySQL, Oracle Database (JOINs level)
+**Logs:** WinSCP, Putty
+**Container Service:** Amazon ECS
+**Command Languages:** Bash (basic level, including grep and ssh commands)
+**Markup Languages and Data Format:** HTML, CSS, XML, JSON
+**Issue Tracking System:** Atlassian Jira
+**Test Management Tools:** Zephyr for Jira, TestRail, Xray, Adaptavist, TestOps, TFS
+**UI Testing:** Figma designs
+**Programming Languages (lab assignments level):** Java, Python
+**Development Environments:** NetBeans, IntelliJ IDEA, PyCharm
+
+## Stack
+<a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
+<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
+<a href="https://junit.org/junit5"><img src="icons/junit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
+<a href="https://www.browserstack.com/"><img src="media/logo/Browserstack.svg" width="50" height="50"  alt="Browserstack"/></a>
+<a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
+<a href="https://gradle.org"><img src="icons/gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
+<a href="https://appium.io/"><img src="media/logo/Appium.svg" width="50" height="50"  alt="Appium"/></a>
+<a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
+<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaAlAnsi&show_icons=true&bg_color=00000000)
 
 <!--
 **natalyaalansi/natalyaalansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
