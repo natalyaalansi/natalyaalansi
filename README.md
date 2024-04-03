@@ -6,7 +6,7 @@ Full Stack QA Engineer | ISTQB® Certified Tester | 4+ years perfecting web and 
 Full Stack QA Engineer with over 4 years of hands-on experience in testing web and mobile applications. Experienced in leading a team of 7 testers for approximately a year. Developed skills in test automation using Java (Selenide with JUnit) and performance testing using JMeter.
 
 **Technical Skills**
-+ **Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
++ **Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Git, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
 + **Load Testing:** JMeter
 + **Web Services Testing:** REST API via Postman, SOAP via SoapUI
 + **Web Testing Tools:** DevTools, Bug Magnet, Lorem Ipsum, Mockaroo
