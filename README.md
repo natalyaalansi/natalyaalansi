@@ -36,7 +36,7 @@ Full Stack QA Engineer with over 4 years of hands-on experience in testing web a
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalyalansi&show_icons=true&bg_color=00000001)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaAlAnsi&show_icons=true&bg_color=00000000)
 
 <!--
 **natalyaalansi/natalyaalansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
