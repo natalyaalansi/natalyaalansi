@@ -1,24 +1,25 @@
-## Welcome to my GitHub page! I am Natalya Al-Ansi 👋
+## Welcome to my GitHub page! 
+## I am Natalya Al-Ansi 👋
 Full Stack QA Engineer | ISTQB® Certified Tester | 4+ years perfecting web and mobile applications for telecom, fintech and biotech companies
 
 ## About Me
 Full Stack QA Engineer with over 4 years of hands-on experience in testing web and mobile applications. Experienced in leading a team of 7 testers for approximately a year. Developed skills in test automation using Java (Selenide with JUnit) and performance testing using JMeter.
 
-**Technical Skills**
-**Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
-**Load Testing:** JMeter
-**Web Services Testing:** REST API via Postman, SOAP via SoapUI
-**Web Testing Tools:** DevTools, Bug Magnet, Lorem Ipsum, Mockaroo
-**Databases:** MySQL, Oracle Database (JOINs level)
-**Logs:** WinSCP, Putty
-**Container Service:** Amazon ECS
-**Command Languages:** Bash (basic level, including grep and ssh commands)
-**Markup Languages and Data Format:** HTML, CSS, XML, JSON
-**Issue Tracking System:** Atlassian Jira
-**Test Management Tools:** Zephyr for Jira, TestRail, Xray, Adaptavist, TestOps, TFS
-**UI Testing:** Figma designs
-**Programming Languages (lab assignments level):** Java, Python
-**Development Environments:** NetBeans, IntelliJ IDEA, PyCharm
++ **Technical Skills**
++ **Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
++ **Load Testing:** JMeter
++ **Web Services Testing:** REST API via Postman, SOAP via SoapUI
++ **Web Testing Tools:** DevTools, Bug Magnet, Lorem Ipsum, Mockaroo
++ **Databases:** MySQL, Oracle Database (JOINs level)
++ **Logs:** WinSCP, Putty
++ **Container Service:** Amazon ECS
++ **Command Languages:** Bash (basic level, including grep and ssh commands)
++ **Markup Languages and Data Format:** HTML, CSS, XML, JSON
++ **Issue Tracking System:** Atlassian Jira
++ **Test Management Tools:** Zephyr for Jira, TestRail, Xray, Adaptavist, TestOps, TFS
++ **UI Testing:** Figma designs
++ **Programming Languages (lab assignments level):** Java, Python
++ **Development Environments:** NetBeans, IntelliJ IDEA, PyCharm
 
 ## Stack
 <a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
@@ -35,7 +36,7 @@ Full Stack QA Engineer with over 4 years of hands-on experience in testing web a
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaAlAnsi&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalyalansi&show_icons=true&bg_color=00000001)
 
 <!--
 **natalyaalansi/natalyaalansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
