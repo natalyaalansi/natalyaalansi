@@ -43,12 +43,9 @@ Full Stack QA Engineer with over 4 years of hands-on experience in testing web a
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaAlAnsi&show_icons=true&bg_color=00000000)
 
-## Ways to reach me
-[![Telegram](https://img.shields.io/badge/@nalansi-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nalansi)
-</a>
-<a href="mailto:alansinatalya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+## Contact
+alansinatalya@gmail.com
+
 <!--
 **natalyaalansi/natalyaalansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
