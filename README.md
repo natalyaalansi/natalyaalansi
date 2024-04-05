@@ -1,6 +1,4 @@
-## Welcome to my GitHub page! 
-## I am Natalya Al-Ansi 👋
-Full Stack QA Engineer | ISTQB® Certified Tester | 4+ years perfecting web and mobile applications for telecom, fintech and biotech companies
+## Welcome to my GitHub page! 👋
 
 ## About Me
 Full Stack QA Engineer with over 4 years of hands-on experience in testing web and mobile applications. Experienced in leading a team of 7 testers for approximately a year. Developed skills in test automation using Java (Selenide with JUnit) and performance testing using JMeter.
