@@ -5,7 +5,7 @@ Full Stack QA Engineer with over 4 years of hands-on experience in testing web a
 
 **Technical Skills**
 + **Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Git, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
-+ **Load Testing:** JMeter
++ **Load Testing:** JMeter, Lighthouse in Chrome DevTools
 + **Web Services Testing:** REST API via Postman, SOAP via SoapUI
 + **Web Testing Tools:** DevTools, Bug Magnet, Lorem Ipsum, Mockaroo
 + **Databases:** MySQL, Oracle Database (JOINs level)
