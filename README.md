@@ -12,12 +12,9 @@ Full Stack QA Engineer with over 4 years of hands-on experience in testing web a
 + **Logs:** WinSCP, Putty
 + **Container Service:** Amazon ECS
 + **Command Languages:** Bash (basic level, including grep and ssh commands)
-+ **Markup Languages and Data Format:** HTML, CSS, XML, JSON
 + **Issue Tracking System:** Atlassian Jira
 + **Test Management Tools:** Zephyr for Jira, TestRail, Xray, Adaptavist, TestOps, TFS
 + **UI Testing:** Figma designs
-+ **Programming Languages (lab assignments level):** Java, Python
-+ **Development Environments:** NetBeans, IntelliJ IDEA, PyCharm
 
 ## Stack
 <a href="https://www.java.com/"><img src="image/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
