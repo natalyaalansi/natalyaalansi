@@ -37,8 +37,8 @@ test cases in TestRail, Xray, Adaptavist
 alansinatalya@gmail.com
 
 ## CV
-[CV](https://drive.google.com/file/d/1HR7i-pIcxE6msbOZ-n6FcvsKFU30DcRI/view?usp=drive_link)
-[Резюме](https://drive.google.com/file/d/1Dxu-kpQFeYfp4L4G-EsmpE9m_iKX4Lv2/view?usp=drive_link)
++ [CV](https://drive.google.com/file/d/1HR7i-pIcxE6msbOZ-n6FcvsKFU30DcRI/view?usp=drive_link)
++ [Резюме](https://drive.google.com/file/d/1Dxu-kpQFeYfp4L4G-EsmpE9m_iKX4Lv2/view?usp=drive_link)
 <!--
 **natalyaalansi/natalyaalansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
