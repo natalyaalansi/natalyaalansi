@@ -1,20 +1,15 @@
 ## Welcome to my GitHub page! 👋
 
 ## About Me
-Full Stack QA Engineer with over 4 years of hands-on experience in testing web and mobile applications. Experienced in leading a team of 7 testers for approximately a year. Developed skills in test automation using Java (Selenide with JUnit) and performance testing using JMeter.
+ISTQB Certied Full Stack QA Engineer with over 4 years of hands-on experience in manual testing of web and mobile apps for fintech, biotech and telecom companies. Led a team of 7 testers for one year. Expanding skills in automation testing for UI and API using
+Java (Gradle, Selenide, JUnit5) and performance testing with JMeter5.
 
 **Technical Skills**
-+ **Test Automation:** Java, Selenide, Gradle, JUnit 5, Rest-assured, Git, Jenkins, Selenoid, Integration with Allure TestOps and Jira, Telegram notifications via a bot
-+ **Load Testing:** JMeter, Lighthouse in Chrome DevTools
-+ **Web Services Testing:** REST API via Postman, SOAP via SoapUI
-+ **Web Testing Tools:** DevTools, Bug Magnet, Lorem Ipsum, Mockaroo
-+ **Databases:** MySQL, Oracle Database (JOINs level)
-+ **Logs:** WinSCP, Putty
-+ **Container Service:** Amazon ECS
-+ **Command Languages:** Bash (basic level, including grep and ssh commands)
-+ **Issue Tracking System:** Atlassian Jira
-+ **Test Management Tools:** Zephyr for Jira, TestRail, Xray, Adaptavist, TestOps, TFS
-+ **UI Testing:** Figma designs
++ **Test Automation:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
++ **Load Testing:** JMeter5, Lighthouse in Chrome DevTools
++ **Manual Web Testing:** REST API via Postman, Swagger, SQL-queries in MySQL (select, group by, having, join, insert, update, delete), DevTools, logs in WinSCP and Putty, Amazon ECS, Bash (basic level, including grep and ssh), Figma designs, bugs in Jira,
+test cases in TestRail, Xray, Adaptavist
++ **English:** B2 Upper intermediate
 
 ## Stack
 <a href="https://www.java.com/"><img src="image/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
@@ -41,6 +36,9 @@ Full Stack QA Engineer with over 4 years of hands-on experience in testing web a
 ## Contact
 alansinatalya@gmail.com
 
+## CV
+[CV](https://drive.google.com/file/d/1HR7i-pIcxE6msbOZ-n6FcvsKFU30DcRI/view?usp=drive_link)
+[Резюме](https://drive.google.com/file/d/1Dxu-kpQFeYfp4L4G-EsmpE9m_iKX4Lv2/view?usp=drive_link)
 <!--
 **natalyaalansi/natalyaalansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
