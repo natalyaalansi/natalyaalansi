@@ -1,7 +1,7 @@
 ## Welcome to my GitHub page! 👋
 
 ## About Me
-ISTQB Certied Full Stack QA Engineer with over 4 years of hands-on experience in manual testing of web and mobile apps for fintech, biotech and telecom companies. Led a team of 7 testers for one year. Expanding skills in automation testing for UI and API using
+ISTQB Certified Full Stack QA Engineer with over 4 years of hands-on experience in manual testing of web and mobile apps for fintech, biotech and telecom companies. Led a team of 7 testers for one year. Expanding skills in automation testing for UI and API using
 Java (Gradle, Selenide, JUnit5) and performance testing with JMeter5.
 
 **Technical Skills**
